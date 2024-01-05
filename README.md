@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hey! I'm Srishti Vijay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    Hey! I'm Jaideep Nuvvula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj" width="25px">
   </h1>
 
 </div>
