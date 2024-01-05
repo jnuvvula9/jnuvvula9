@@ -1,11 +1,11 @@
 <div align="center">
   <h1>
-    Hey! I'm Jaideep Nuvvula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj" width="25px">
+    Hey! I'm Jaideep Nuvvula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   </h1>
 
 </div>
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif"](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj) width="300"/>
+  <img src="https://media.giphy.com/media/8sUOgXOnkZZ8rldMwE/giphy.gif" width="300"/>
 </div>
 
 
