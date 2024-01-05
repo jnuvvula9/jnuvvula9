@@ -12,19 +12,6 @@
 
 🌟 **About Me:**
 
-🔍 **Exploring the World of Data:** As a dedicated Computer Science student at the University of Southern California, I am deeply fascinated by the intricacies of data. My academic and personal ventures are anchored in my passion for Machine Learning and Deep Learning, where I constantly seek to unravel the complexities and potential of data science.
-
-📱 **iOS Development Enthusiast:** I leverage my free time to craft innovative iOS applications, reflecting my knack for practical software development. These projects are a testament to my ability to convert concepts into tangible solutions.
-
-🚀 **Embracing Challenges & Innovation:** I am always on the lookout for challenging projects and tasks that push the boundaries of what's possible. My goal is to not just witness but actively contribute to the advancements in technology, particularly in the field of data science.
-
-🌐 **Collaboration & Continuous Learning:** My journey is one of perpetual learning and collaboration. I am always eager to engage in projects that require teamwork, and I value the insights gained from diverse viewpoints. 
-
-📘 **A Voracious Reader & Culinary Explorer:** Beyond the realms of algorithms and data structures, I find solace in the pages of diverse books and the art of cooking. This not only broadens my perspectives but also fuels my creativity, allowing me to approach technical problems with a unique blend of analytical and creative thinking.
-
-🎯 **Aspiring Data Scientist:** Envisioning a future as a data scientist, I am committed to honing my skills and expanding my knowledge to make a significant impact in the tech world. 
-
-🔗 **Let's Connect!** Whether it's a potential project collaboration or just a chat about the latest trends in technology, feel free to reach out. I'm always open to exciting opportunities and new learning experiences.
 
 <div id="badges" align= "center">
   <a href="https://www.linkedin.com/in/srishvvargiya/">
